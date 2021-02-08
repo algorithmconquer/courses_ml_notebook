@@ -140,7 +140,7 @@ $$
 $$
 求解参数
 $$
-对j,k变量求导时,i为常量;\\
+对j,k变量求导时,i为常量,因此下式仍然对i进行整个求和\sum^M_{i:y_i=k};\\
 \frac{\partial L}{\theta_{jk}}=\sum^M_{i:y_i=k}\frac{x_{ij}}{\theta_{jk}}+\lambda_{k};==>\theta_{jk}=-\lambda_{k}\sum^M_{i:y_i=k}x_{ij};\\
 带入约束条件得到:\lambda_{k}=-\frac{1}{\sum^{V}_{j=1}\sum^M_{i:y_i=k}x_{ij}};\\
 则\theta_{jk}=\frac{\sum^M_{i:y_i=k}x_{ij}}{\sum^{V}_{j=1}\sum^M_{i:y_i=k}x_{ij}};
