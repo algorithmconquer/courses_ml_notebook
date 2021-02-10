@@ -12,6 +12,8 @@ https://blog.csdn.net/wait_for_eva/article/details/84307306;
 
 # 二、courses
 
+https://shimo.im/sheets/vdpgJy9DxCXyG8Kj/MODOC；
+
 # 1、gitlab address
 
 http://47.94.6.102/NLP9/course-info;
