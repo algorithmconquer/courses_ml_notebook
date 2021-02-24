@@ -16,6 +16,8 @@ https://shimo.im/sheets/vdpgJy9DxCXyG8Kj/MODOC；
 
 # 1、gitlab address
 
+user:20210130067;
+
 http://47.94.6.102/NLP9/course-info;
 
 ## 2、courses videos
